@@ -2,7 +2,7 @@
 
 # Join an Event 
 
-https://catalog.workshops.aws/
+ https://catalog.workshops.aws/
 
 
 # Create Topic 
